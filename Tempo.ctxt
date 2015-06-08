@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=intHora
+comment0.target=Tempo(int)
+comment0.text=\r\n\ Construtor\ do\ cronometro\ recebe\ o\ tempo\ maximo\r\n
+comment1.params=
+comment1.target=boolean\ isMaiorZero()
+comment1.text=\r\n\ Verificar\ se\ esta\ zerado\r\n
+comment2.params=
+comment2.target=void\ reduz()
+comment2.text=\r\n\ Diminui\ um\ segundo\ no\ tempo\r\n
+comment3.params=intHora
+comment3.target=void\ setIntHora(int)
+comment3.text=\r\n\ Enviar\ um\ novo\ tempo\ maximo\ (normalmente\ usado\ para\ zerar\ o\ cronometro)\r\n
+comment4.params=
+comment4.target=java.lang.String\ transHora()
+comment4.text=\r\n\ Transforma\ os\ segundos\ em\ HH\:MM\:SS\r\n
+comment5.params=num\ tam
+comment5.target=java.lang.String\ addZero(int,\ int)
+comment5.text=\r\n\ Coloca\ zeros\ a\ esquerda\r\n
+numComments=6

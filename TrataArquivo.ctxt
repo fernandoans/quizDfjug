@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=java.lang.String\ getPergunta(int)
+comment0.text=\r\n\ Obter\ uma\ determinada\ pergunta\r\n
+numComments=1
